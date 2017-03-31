@@ -448,7 +448,7 @@ Signed,
 - Maik Ellerbrock ([@ellerbrock](https://github.com/ellerbrock)), Full Stack Developer, Founder at [Frapsoft](https://frapsoft.com), Germany
 - Jason Dean ([@JasonDean-1](https://github.com/JasonDean-1)), Software Developer
 - Law Less ([@llsf](https://github.com/llsf)), Full Stack Developer
-- Himanshu Shekhar ([@himanshub16](https://github.com/himanshub16)), Undergrad IIIT-Allahabad
+- Himanshu Shekhar ([@himanshub16](https://github.com/himanshub16)), Undergrad IIIT-Allahabad, India
 - Matthias Dietrich ([@rainboxx](https://github.com/rainboxx)), Freelance Developer, Germany
-- Faheem Hassan Zunjani ([@faheemzunjani](https://github.com/faheemzunjani)), Undergrad, IIIT Allahabad
-- Inshaal Uddin ([@inshaal](https://github.com/inshaal)), Student, DPS Bhilai
+- Faheem Hassan Zunjani ([@faheemzunjani](https://github.com/faheemzunjani)), Undergrad, IIIT Allahabad, India
+- Inshaal Uddin ([@inshaal](https://github.com/inshaal)), Student, DPS Bhilai, India
