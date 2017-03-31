@@ -451,3 +451,4 @@ Signed,
 - Himanshu Shekhar ([@himanshub16](https://github.com/himanshub16)), Undergrad IIIT-Allahabad
 - Matthias Dietrich ([@rainboxx](https://github.com/rainboxx)), Freelance Developer, Germany
 - Faheem Hassan Zunjani ([@faheemzunjani](https://github.com/faheemzunjani)), Undergrad, IIIT Allahabad
+- Inshaal Uddin ([@inshaal](https://github.com/inshaal)), Student, DPS Bhilai
